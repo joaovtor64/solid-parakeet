@@ -1,0 +1,7 @@
+Aplicações de Funções Quadráticas
+Existem várias aplicações de funções quadráticas na vida cotidiana. Essas funções podem ser usadas para modelar situações que seguem um caminho parabólico. Elas também podem ser usadas ​​para calcular áreas de lotes, caixas, salas e calcular uma área ótima.
+As funções quadráticas podem até ser úteis para determinar o lucro de um produto ou formular a velocidade de um objeto.
+Encontrar lucros
+Freqüentemente, as funções quadráticas podem ser usadas para calcular os lucros de uma empresa. Se quisermos vender algo, mesmo que seja algo simples como biscoitos, precisamos determinar quantas embalagens produzir para termos lucro.
+Por exemplo, se estamos vendendo pacotes de biscoitos e queremos produzir 20 pacotes, sabemos que venderemos um número diferente de pacotes dependendo de como definirmos o preço. Se custarmos 100 dólares por pacote, podemos não vender nenhum pacote, mas se cobrarmos 0,01 dólares por pacote, provavelmente venderemos todos os 20 pacotes em um minuto.
+Portanto, para decidir o preço a usar, podemos tornar P uma variável. Estimamos que a demanda pelos pacotes de biscoitos seja de 20-P . Então, a receita será igual ao preço multiplicado pelo número de pacotes vendidos: P(20-P)=20P-p^2 . Usando o custo de produção dos pacotes de biscoitos, podemos fazer nossa equação igual àquela quantidade e a partir daí escolher um preço.
